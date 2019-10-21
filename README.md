@@ -5,7 +5,7 @@
 <b>Discipline | <b>Engineering
 :--|:--|
 <b> Lab. | <b>ENGINEERING PHYSICS
-<b> Experiment|     <b> DSB/ SSB Band energy gap calulation in semiconductors.
+<b> Experiment|     <b> Band energy gap calulation in semiconductors.
 
 
 
