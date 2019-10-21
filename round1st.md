@@ -1,6 +1,6 @@
 **Development of Virtual lab :Round 1 (R1) Pedagogy - Template (Worksheet)**
 
-| **Name of Faculty:**** MANOJ ** YADAVA** Institute: **** RAJKIYA ENGINEERING COLLEGE BANDA ****Email ID** (as submitted in the registration form) **:**  **manojyadava16**** @gmail.com ****Discipline to which the Lab belongs:**  **PHYSICS LAB**** Name of the Lab: **** BASICS OF  PHYSICS ****Name of experiment**  **BAND WIDTH** (only one Experiment per worksheet. for submitting more than one experiments, please fill up another worksheet) **:**  **Kindly Refer these documents before filling the worksheet**
+| **Name of Faculty:MANOJ  YADAVA Institute:  RAJKIYA ENGINEERING COLLEGE BANDA Email ID (as submitted in the registration form) **:**  **manojyadava16**** @gmail.com ****Discipline to which the Lab belongs:**  **PHYSICS LAB**** Name of the Lab: **** BASICS OF  PHYSICS ****Name of experiment**  **BAND WIDTH** (only one Experiment per worksheet. for submitting more than one experiments, please fill up another worksheet) **:**  **Kindly Refer these documents before filling the worksheet**
 1. **1.**** Coursework (MOOC ) on Pedagogy , Storyboard , Lab Manual :**[** **](http://bit.ly/Vlabs-MOOC)[**http://bit.ly/Vlabs-MOOC**](http://bit.ly/Vlabs-MOOC)
 2. **2.**** Additional Documentation booklet for reference.**[**http://vlabs.iitb.ac.in/vlabs-dev/document.php**](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
 3. **3.**** Sample Git Repository. :**
