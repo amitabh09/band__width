@@ -1,18 +1,24 @@
-**Development of Virtual lab :Round 1 (R1) Pedagogy - Template (Worksheet)**
+Development of Virtual lab :Round 1 (R1) Pedagogy - Template (Worksheet)
 
-| **Name of Faculty:**** MANOJ ** YADAVA** Institute: **** RAJKIYA ENGINEERING COLLEGE BANDA ****Email ID** (as submitted in the registration form) **:**  **manojyadava16**** @gmail.com ****Discipline to which the Lab belongs:**  **PHYSICS LAB**** Name of the Lab: **** BASICS OF  PHYSICS ****Name of experiment**  **BAND WIDTH** (only one Experiment per worksheet. for submitting more than one experiments, please fill up another worksheet) **:**  **Kindly Refer these documents before filling the worksheet**
-1. **1.**** Coursework (MOOC ) on Pedagogy , Storyboard , Lab Manual :**[** **](http://bit.ly/Vlabs-MOOC)[**http://bit.ly/Vlabs-MOOC**](http://bit.ly/Vlabs-MOOC)
-2. **2.**** Additional Documentation booklet for reference.**[**http://vlabs.iitb.ac.in/vlabs-dev/document.php**](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3. **3.**** Sample Git Repository. :**
+| Name of Faculty: MANOJ YADAVA
+Institute: RAJKIYA ENGINEERING COLLEGE BANDA 
+Email ID (as submitted in the registration form) :manojyadava16@gmail.com
+Discipline to which the Lab belongs:PHYSICS LAB   
+Name of the Lab: BASICS OF  PHYSICS 
+Name of experiment:  BAND WIDTH 
+(only one Experiment per worksheet. for submitting more than one experiments, please fill up another worksheet) **:**  **Kindly Refer these documents before filling the worksheet
+1.  Coursework (MOOC ) on Pedagogy , Storyboard , Lab Manual :**[** **](http://bit.ly/Vlabs-MOOC)[**http://bit.ly/Vlabs-MOOC**](http://bit.ly/Vlabs-MOOC)
+2. Additional Documentation booklet for reference.**[**http://vlabs.iitb.ac.in/vlabs-dev/document.php**](http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+3. Sample Git Repository. :**
  |
 | --- |
 
 1.
-  1. 1 **FOCUS AREA:**
+  1. 1 FOCUS AREA:
 
 The student will know the concept of energy band gap and relation for finding slope Of  graph of log(Is)  vs  1000/T. This experiment is based  on formula of band gap. Finally analysing the results with standard values.
 
-**1.2 About the Experiment:**
+1.2 About the Experiment:
 
 This experiment is to let one learn how is energy band gap of semiconductor is calculated.
 
