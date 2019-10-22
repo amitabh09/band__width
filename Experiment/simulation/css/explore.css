@@ -1,0 +1,19 @@
+<style>
+{
+*{margin:0px; padding:0px;}*
+#cnt ul{list-style:none;}
+#cnt ul li{background-color:blue; width:100px; border:1px solid white; height:50px; line-height:50px; color:white; font-size:18px; text-align:center; float:left;position:relative;}
+#cnt ul li:hover{background-color:green;}
+#cnt ul ul{display:none;}
+#cnt ul li:hover > ul{display:block;}
+#cnt ul ul ul{margin-left:100px;top:0px;position:absolute;}
+}
+#akash
+{
+	style="font-size:60; color:green;
+}
+#shivam
+{
+	style="font-size:40; color:grey;height:20;
+}
+</style>
